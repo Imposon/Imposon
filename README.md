@@ -36,21 +36,21 @@
 
 ## 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imposon&layout=compact&theme=tokyonight)
 
 ---
 
 ## 👀 Profile Views
 
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![Visitors](https://komarev.com/ghpvc/?username=Imposon&color=blue)
 
 ---
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
-- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/aditya-sinha-574651342/
+- 📧 Email: aditya.sinha@adypu.edu.in
 
 ---
 
-⭐️ From [Aditya](https://github.com/YOUR_USERNAME)
+⭐️ From [Aditya](https://github.com/Imposon)
