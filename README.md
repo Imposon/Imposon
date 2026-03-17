@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aditya Sinha
+# 👋 Hi, I'm Aditya Sinha / Imposon
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=AI/ML+Student;Data+Analytics+Enthusiast;SQL+%7C+Excel+%7C+Python)
 
@@ -37,12 +37,6 @@
 ## 📊 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imposon&layout=compact&theme=tokyonight)
-
----
-
-## 👀 Profile Views
-
-![Visitors](https://komarev.com/ghpvc/?username=Imposon&color=blue)
 
 ---
 
