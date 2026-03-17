@@ -30,7 +30,7 @@
 
 ## 📈 GitHub Stats
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imposon&show_icons=true&theme=tokyonight)
+![Impoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imposon&show_icons=true&theme=tokyonight)
 
 ---
 
