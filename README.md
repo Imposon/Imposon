@@ -48,7 +48,7 @@
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/aditya-sinha-574651342/
+- 💼 LinkedIn: https://www.linkedin.com/in/aditya-sinha-574651342/
 - 📧 Email: aditya.sinha@adypu.edu.in
 
 ---
