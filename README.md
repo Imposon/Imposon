@@ -4,9 +4,9 @@
 
 ---
 
-🎓 2nd Year BTech CSE (AI/ML) Student  
-📊 Aspiring Data Analyst  
-💻 Passionate about solving real-world problems with data  
+-->2nd Year BTech CSE (AI/ML) Student  
+-->Aspiring Data Analyst  
+-->Passionate about solving real-world problems with data  
 
 ---
 
@@ -22,15 +22,15 @@
 
 ## 📊 Projects
 
-- 📈 **Sales Analytics Dashboard** (Excel + SQL)  
-- 🧠 **CodeNotes App** (Coding + Notes Platform)  
-- 🛡️ **FinShield Analytics** (Fraud Detection System)  
+- **Sales Analytics Dashboard** (Excel + SQL)  
+- **CodeNotes App** (Coding + Notes Platform)  
+- **FinShield Analytics** (Fraud Detection System)  
 
 ---
 
 ## 📈 GitHub Stats
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imposon&show_icons=true&theme=tokyonight)
 
 ---
 
