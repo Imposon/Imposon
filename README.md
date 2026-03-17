@@ -16,7 +16,6 @@
 ![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql)
 ![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwind-css)
 
 ---
 
