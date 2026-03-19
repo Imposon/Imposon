@@ -7,12 +7,6 @@
 -->2nd Year BTech CSE (AI/ML) Student  
 -->Aspiring Data Analyst  
 -->Passionate about solving real-world problems with data  
-
----
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Imposon/Imposon/blob/output/github-contribution-grid-snake-dark.svg)
-
 ---
 
 ## 🚀 Skills
