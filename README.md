@@ -17,17 +17,6 @@
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 
 ---
-## 📈 GitHub Stats
-
-![Impoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imposon&show_icons=true&theme=tokyonight)
-
----
-
-## 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imposon&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Connect with Me
 
