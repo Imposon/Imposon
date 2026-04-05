@@ -3,10 +3,11 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=AI/ML+Student;Data+Analytics+Enthusiast;SQL+%7C+Excel+%7C+Python)
 
 ---
+## About Me
 
--->2nd Year BTech CSE (AI/ML) Student  
--->Aspiring Data Analyst  
--->Passionate about solving real-world problems with data  
+:2nd Year BTech CSE (AI/ML) Student  
+:Aspiring Data Analyst  
+:Passionate about solving real-world problems with data  
 ---
 
 ## 🚀 Skills
