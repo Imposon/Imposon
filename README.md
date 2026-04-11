@@ -5,9 +5,9 @@
 ---
 ## About Me
 
-:2nd Year BTech CSE (AI/ML) Student  
-:Aspiring Data Analyst  
-:Passionate about solving real-world problems with data  
+- 2nd Year BTech CSE (AI/ML) Student  
+- Aspiring Data Analyst  
+- Passionate about solving real-world problems with data  
 ---
 
 ## 🚀 Skills
