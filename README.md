@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aditya Sinha / Imposon
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=AI/ML+Student;Data+Analytics+Enthusiast;SQL+%7C+Excel+%7C+Python)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=AI/ML+Student;Data+Analytics+Enthusiast;SQL+%7C+Excel+%7C+Python);Entrepreneurship
 
 ---
 ## About Me
